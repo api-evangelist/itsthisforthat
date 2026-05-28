@@ -1,0 +1,32 @@
+aid: itsthisforthat
+name: ItsThisForThat
+description: "Generate Random startup ideas"
+url: https://itsthisforthat.com/api.php
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Test Data"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Test Data
+  - Public APIs
+apis:
+  - name: ItsThisForThat
+    description: "Generate Random startup ideas"
+    humanURL: https://itsthisforthat.com/api.php
+    baseURL: https://itsthisforthat.com/api.php
+    tags:
+      - Test Data
+    properties:
+      - type: Documentation
+        url: https://itsthisforthat.com/api.php
+common:
+  - type: Website
+    url: https://itsthisforthat.com/api.php
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
