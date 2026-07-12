@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://itsthisforthat.com/api.php
 common:
+  - type: DomainSecurity
+    url: security/itsthisforthat-domain-security.yml
   - type: Website
     url: https://itsthisforthat.com/api.php
   - type: PublicAPIsListing
