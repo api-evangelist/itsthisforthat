@@ -39,7 +39,6 @@ apis:
   - name: ItsThisForThat
     description: "Generate Random startup ideas"
     humanURL: https://itsthisforthat.com/api.php
-    baseURL: https://itsthisforthat.com/api.php
     tags:
       - Test Data
     properties:
